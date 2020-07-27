@@ -1,4 +1,4 @@
-Live demo:https://lbeatu.github.io/covid19v1/
+Live demo:https://lbeatu.github.io/covid19-reactjs-context/
 
 ## Available Scripts
 
